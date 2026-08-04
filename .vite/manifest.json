@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "assets/page-Dp7Dufvm-static1.js",
+    "file": "assets/page-Dp7Dufvm-static2.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
